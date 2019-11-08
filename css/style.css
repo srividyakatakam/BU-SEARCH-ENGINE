@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+	
+}
+.lgndiv {
+	margin-top:6%;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+.active {
+	background-color: #a1a3a5;
+}
+.indexdiv {
+	margin-top:30%;
+	padding:40px;
+}
+.footer 
+{
+	background-color: black;
+	padding:10px;
+    margin-top:12%;
+}
+.footerp 
+{
+	color:white;
+	font-size:15px;
+}
